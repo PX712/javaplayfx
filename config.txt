@@ -1,4 +1,4 @@
-token = Njc1NzYxOTI0MTY3Njk2NDI1.Xj8ZOQ.rInqTd61SAbE_tTR3eq9QGNiewU
+token = 
 
 
 
